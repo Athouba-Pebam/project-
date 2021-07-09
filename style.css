@@ -1,0 +1,24 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: cursive;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+
+.btn_play{
+    font-size: 30px;
+    border-radius: 20px;
+    font-weight: 400;
+    font-style: oblique;
+    font-family: sans-serif;
+}
